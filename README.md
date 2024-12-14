@@ -56,7 +56,10 @@ Bash-скрипт:
     
 - Если не нашёл, то скрипт должен вывести: (Вы не зарегистрированы”)
 
-
+## Дополнительные материалы
+1. https://habr.com/ru/companies/itsumma/articles/492932/
+2. https://ru.hexlet.io/courses/cli-basics/lessons/grep/theory_unit
+3. https://metanit.com/os/linux/3.3.php
 ## Выполнение лабораторной работы
  1. Для начала я создаем файлы с данными:
     - mail.txt
