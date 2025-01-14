@@ -81,7 +81,8 @@ Bash-скрипт:
 
 2. Пишем bash-скрипт:
 
-   <img width="924" alt="image" src="https://github.com/user-attachments/assets/e8d97793-b21e-42fe-b083-40142fcd138a" />
+  <img width="804" alt="image" src="https://github.com/user-attachments/assets/8d19c5b6-ebaa-42bf-9a56-a59bb9653d0e" />
+
  - объявляем переменные и им присваиваем значения, полученные из командной строки
  - цикл перебирает три файла: mail.txt, number.txt и nickname.txt
  - внутри цикла проверяется, содержится ли key в текущем файле
